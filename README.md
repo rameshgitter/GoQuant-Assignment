@@ -1,5 +1,44 @@
 # GoQuant-Assignment
+## C++ Backend Developer Intern at GoQuant
 
+**Stipend:** ₹20,000 to ₹35,000 per month
+
+### 📅 Timeline:
+
+- **Application to view:** ~1 week  
+- **Assignment received:** ~3 week after application  
+- **Assignment deadline:** 1 week to complete  
+- **Response and interview scheduling:** Took ~3 weeks  
+
+---
+
+### 🧠 Interview Process:
+
+#### 🔹 Round 1 – Technical + Resume-Based Interview (30 minutes)
+
+- **Interviewer 1 (Finance-oriented):**
+  - What is Deribit?
+  - What is a dividend?
+  - Other finance-related concepts
+  - Questions related to my resume
+
+- **Interviewer 2 (General/Behavioral):**
+  - What is the most difficult course you encountered in your college curriculum, and how did you handle it?
+  - If you had unlimited resources and time, what would you build?
+
+- **Interviewer 3 (Technical – DS & Assignment Focused):**
+  1. For an order book, which data structure would you prefer: `unordered_map` or a sorted array? Why?
+  2. What is the time complexity of `unordered_map`? How and why can it increase from O(1) to O(n)?
+  3. What was the most difficult part of the assignment?
+  4. What was the most bug-prone part of the assignment?
+  5. What are the drawbacks of the `chrono` library you used?
+
+- **Outcome:** ❌ Rejected after this round  
+  - However, they encouraged me to consider joining their bootcamp.
+  - They sent a recorded video of the google meet interview using Spinach ai after the interview ended.
+
+---
+_____________________________________________________________________________________
 # High-Performance Order Execution and Management System
 
 ## Objective
